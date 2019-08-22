@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-rdm6300-rfid-reader-module-125khz",
+  "title": "rdm6300-rfid-reader-module-125khz",
+  "keywords": "rdm6300-rfid-reader-module-125khz, esp32, esp8266, arduino",
+  "description": "rdm6300-rfid-reader-module-125khz plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-rdm6300-rfid-reader-module-125khz/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-rdm6300-rfid-reader-module-125khz/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
